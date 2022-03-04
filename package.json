@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/MBPSCD/cordova-plugin-themeablebrowser"
+    "url": "https://github.com/manulife-sinochem/cordova-plugin-themeablebrowser"
   },
   "keywords": [
     "cordova",
